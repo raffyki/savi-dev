@@ -2,7 +2,8 @@
 Beginner web developer profile and learning log
 # Hi there, I'm Savi! 👋
 
-![Banner Image]![WhatsApp Image 2025-12-17 at 14 14 04](https://github.com/user-attachments/assets/f81a9809-966a-4cd8-9f73-5ebdb43f1dd7)
+<img width="1023" height="420" alt="image" src="https://github.com/user-attachments/assets/257e030c-9a13-4b34-b7ff-83e30917a7c9" />
+
 
 
 ## About Me 🚀
